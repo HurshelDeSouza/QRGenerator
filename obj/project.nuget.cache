@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jWOmAr6QOh/9yFj3YN5qiH/smuOZZ+GPpUvN25oqJ3evuFTo6EdIS6K6euTRL2B7SgjpXVxpGYzrYFL0K1xKpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ALIENWARE\\Desktop\\QRGenerator\\QRGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALIENWARE\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
